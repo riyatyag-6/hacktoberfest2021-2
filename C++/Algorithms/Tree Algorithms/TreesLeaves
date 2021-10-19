@@ -1,0 +1,12 @@
+#include <iostream> 
+using namespace std;
+int main(){
+     int m,i;
+     cout<<"Enter the value of m of m-ary tree"<<endl;
+     cin>>m;
+     cout<<"Enter the value of internal vertices"<<endl;
+     cin>>i;
+     int l=((m-1)*1) +1;
+     cout<<"The leaves are:"<<l<<endl;
+
+}
